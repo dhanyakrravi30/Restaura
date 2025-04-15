@@ -1,1 +1,1 @@
-![EMS Output](1.png)
+![Output](image.png)
